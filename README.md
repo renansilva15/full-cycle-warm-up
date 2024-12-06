@@ -1,6 +1,6 @@
 # FULL CYCLE WARM UP
 
-## Some commands of the first class
+## Some commands of the first class https://www.youtube.com/watch?v=SUyycXw4jTg
 ```bash
 docker ps
 curl localhost:80
