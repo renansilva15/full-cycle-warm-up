@@ -1,2 +1,4 @@
 node_modules
 .vscode
+2-scalable-apis-with-nestjs/prisma/database.sqlite
+2-scalable-apis-with-nestjs/prisma/database.sqlite-journal

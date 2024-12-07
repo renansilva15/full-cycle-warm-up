@@ -1,0 +1,19 @@
+@port=3333
+@baseUrl=http://localhost:{{port}}
+
+GET {{baseUrl}}
+
+###
+GET {{baseUrl}}/products
+
+###
+POST {{baseUrl}}/products
+
+###
+GET {{baseUrl}}/products/1
+
+###
+PATCH {{baseUrl}}/products/1
+
+###
+DELETE  {{baseUrl}}/products/1
